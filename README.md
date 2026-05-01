@@ -48,11 +48,15 @@ npm run build
 
 ## Fix common issues
 If you face any errors, try clean install
+
 Windows (PowerShell):
+    
     Remove-Item -Recurse -Force node_modules
     Remove-Item package-lock.json
     npm install
+    
 Mac/Linux:
+    
     rm -rf node_modules package-lock.json
     npm install
 
