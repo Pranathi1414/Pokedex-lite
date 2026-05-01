@@ -22,18 +22,22 @@ pokedex-lite/
 
 ## 'How to run project locally'
 ### Clone repository
+
 git clone https://github.com/your-username/pokedex-lite.git
 cd pokedex-lite
 
 ### Install dependencies
+
 npm install
 
 ### Start development server
+
 npm start
 
 App will run at http://localhost:3000
 
 ### Build for production
+
 npm run build
 
 ### Screenshots
